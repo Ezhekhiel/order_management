@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+/*!
+ */
+/*!
+ */
+#myProgress {
+    width: 100%;
+    background-color: #ddd;
+
+}
+
+#myBar {
+
+    height: 30px;
+    background-color: rgb(91, 149, 224);
+    line-height: 30px;
+    color: #ddd;
+
+}
+
+div.dataTables_wrapper {
+    width: 100%;
+    margin: 0 auto;
+}
+
+/* Start Adding CSS By Ipong */
+canvas #pqa_chart {
+    width: 1000px !important;
+    height: 600px !important;
+}
+
+/* End Adding CSS By Ipong */
+
+.belum {
+    color: white;
+    background-color: rgb(226, 47, 47);
+}
+
+.sudah {
+    color: white;
+    background-color: rgb(5, 87, 16);
+}
+
+.tidak {
+    color: white;
+    background-color: rgb(114, 114, 114);
+}
